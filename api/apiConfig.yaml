@@ -1,0 +1,19 @@
+redis_server:
+  host: localhost
+  port: 6379
+
+suso_server:
+  server-url: http://survey.sidiagro.do/prueba/api/v1/
+  api-user: APIUser
+  api-password: Renagro2024
+
+  #server-url: https://aguinada-demo.mysurvey.solutions/renagro/api/v1/
+  #api-user: APIUser
+  #api-password: Survey2024
+
+uvicorn_server:
+  host: 0.0.0.0
+  port: 8000
+
+
+  
