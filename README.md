@@ -15,33 +15,6 @@ RENAGRO is a Flutter-based application designed for **quality control and data m
 ## Installation
 To run this project locally, follow these steps:
 
-### **Backend (API - FastAPI)**
-```sh
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to the API folder
-cd your-repo/api
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the API
-uvicorn apiRenagro:app --reload
-```
-
-### **Frontend (Flutter App)**
-```sh
-# Navigate to the Flutter project directory
-cd your-repo/lib
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
 ## Tech Stack
 ### **Frontend (Flutter)**
 - **Framework**: Flutter (Dart)
