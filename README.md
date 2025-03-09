@@ -47,5 +47,5 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 ![Login Screen](screenshots/login_screen.png)
-![Quality Control Table](screenshots/calidad_screen.png)
-![Farm Inventory](screenshots/fincas_screen.png)
+![Quality Control Table](screenshots/control_calidad_screen.png)
+![Farm Inventory](screenshots/fincas_parcelas_screen.png)
